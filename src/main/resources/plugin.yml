@@ -1,0 +1,11 @@
+name: ${name}
+description: ${description}
+author: ${author}
+main: ${mainClass}
+version: ${version}
+url: ${url}
+
+commands:
+  test:
+    aliases: []
+    description: ""
